@@ -1,2 +1,1 @@
-google.com, pub-4265156279984393, DIRECT, f08c47fec0942fa0
-
+Mountain Collector information
